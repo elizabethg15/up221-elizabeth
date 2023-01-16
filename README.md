@@ -22,3 +22,5 @@ My first choice of a project would be something related to bike infrastructure, 
 
 ## Class Objectives
 My personal reason for taking this class is to spruce up my GIS skills and to learn to integrate Python into the mix. I took two GIS ESRI-based classes in undergrad (2015-2017), which by now is a litte fuzzy and a couple software updates obsolete. I also was exposed to Python for the first time last spring in a Travel Behavior Analysis course, but I don't expect that to put me at much of an advantage after the second week :sweat_smile:
+
+[Link to my GitHub](https://github.com/elizabethg15/up221-elizabeth)
