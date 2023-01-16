@@ -1,0 +1,11 @@
+## Thinking Cap
+
+The article I would like to feature is from the Los Angeles Times on November 4, 2021, entitled [L.A. sheriff’s deputies use minor stops to search bicyclists, with Latinos hit hardest](https://www.latimes.com/projects/la-county-sheriff-bike-stops-analysis/). As someone looking to go into the sub-field of active transportation planning, this article opened my eyes to the ways that different people in varying geographies are treated differently riding a bike. LA Times reporters found that the Los Angeles Sheriffs Department (LASD) proceeded to search 85% of the folks they stopped on bikes, and 7/10 of all folks stopped on bikes were Latino, and more stops occurred in poorer and high-POC areas of the county. LASD service terroritory includes unincoporated LA County, as well as some of the 88 cities in the county that contract out to LASD to provide public safety services. LASD claimed to justify the searches because people on bikes may not have driver's licenses and are running from the law, though the arrest rate following these stops and searches was far below the average for pedestrian or motorist stops. LASD further claimed to not stop folks on bicycles for "exercise or amsuement," in effect dismissing the possiblity of utilitarian bicycling, which people do by choice and by need. Many folks on bikes in the areas prone to these Sheriff stops are "bike dependent" and do not have a car or other transportation alternative. 
+
+Consider the maps below: (Blue dot means individual was stopped, Yellow dot means individual was searched)
+
+![image](https://user-images.githubusercontent.com/122768060/212619081-8fc2ac0e-cc8c-49ab-959d-2fd843066d04.png)
+[Image East LA](https://api.mapbox.com/styles/v1/latimes/ckv0gkvo51rwm15nsvqe80k1x/static/-118.1658,34.0345,12.3/700x500?access_token=pk.eyJ1IjoibGF0aW1lcyIsImEiOiJjajhvcXRraGUwNnlwMzNyczR3cTBsaWh1In0.0cPKLwe2A0ET4P5CtWSiLQ)
+
+![image](https://user-images.githubusercontent.com/122768060/212619210-24ae9093-e744-4057-9917-3bbfd06b98a5.png)
+[Image WeHo](https://api.mapbox.com/styles/v1/latimes/ckv1e7sm92oix14ny1cgfppy2/static/-118.370,34.089,13.1/700x500?access_token=pk.eyJ1IjoibGF0aW1lcyIsImEiOiJjajhvcXRraGUwNnlwMzNyczR3cTBsaWh1In0.0cPKLwe2A0ET4P5CtWSiLQ)
