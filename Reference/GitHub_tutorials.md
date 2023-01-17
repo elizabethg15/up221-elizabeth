@@ -2,7 +2,7 @@
 * [GitHub tutorial: Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
    * headings, bold/italic/underline, quoting, colors (brief), web links, relative links, images, lists, task lists, mentions (@), emoji 🍭 [(cheat sheet)](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md), footnotes.
 * [GitHub tutorial: Advanced formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting) (tables, syntax highlighting, diagrams, math equations, etc.)
-* [Yoh resource: Advanced markdown formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Headers, Emphasis, Lists, Links, Images, Code and Syntax Highlighting, Footnotes, Tables, Blockquotes, Inline HTML, Horizontal Rule, Line Breaks, YouTube Videos
 * [GitHub tutorial: Attaching files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
 * [Tutorial: How to create a folder in GitHub repos](https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/)
 * Really basic shit
