@@ -12,4 +12,4 @@
    * [Reference sheet: GIS and coding troubleshooting](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
    * [Yoh resource: Clone repo to hub](https://github.com/yohman/23W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
    * [Yoh resource: Uploading and updating your repo](https://github.com/yohman/23W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
-
+   * [Python Multiply List by Scalar](https://linuxhint.com/multiply-list-scalar-python/)
