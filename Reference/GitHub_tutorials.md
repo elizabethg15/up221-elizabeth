@@ -14,3 +14,17 @@
    * [Yoh resource: Clone repo to hub](https://github.com/yohman/23W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
    * [Yoh resource: Uploading and updating your repo](https://github.com/yohman/23W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
    * [Python Multiply List by Scalar](https://linuxhint.com/multiply-list-scalar-python/)
+* Useful keyboard shortcuts
+
+key | action
+--- | ---
+shift-enter | execute a cell and go to the next cell
+alt-enter | execute a cell and stay on the same cell
+A | add a cell above
+B | add a cell below
+DD | delete a cell
+ctrl+shift+dash | split a cell at the cursor
+x | cut a cell
+c | copy a cell
+v | paste a cell
+shift+l | show line numbers in a code cell
