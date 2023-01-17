@@ -28,3 +28,9 @@ x | cut a cell
 c | copy a cell
 v | paste a cell
 shift+l | show line numbers in a code cell
+
+* Week 2
+    * [Reading and writing files in Geopandas](https://geopandas.org/en/latest/docs/user_guide/io.htmlhttps://geopandas.org/en/latest/docs/user_guide/io.html)
+    * [Creating plots in Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/04_plotting.html#min-tut-04-plotting)
+    * [About Pandas .loc](https://www.w3resource.com/pandas/dataframe/dataframe-loc.php)
+    * [About Folium](https://python-visualization.github.io/folium/quickstart.html)
