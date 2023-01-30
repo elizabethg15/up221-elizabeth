@@ -8,6 +8,7 @@
 * Really basic shit
    * [Yoh resource: Selecting good variable names](https://github.com/yohman/23W-UP221/blob/main/Weeks/Week01%20Intro/extras/gcp-1-variable-naming.ipynb)
    * [Yoh resource: Describing your code](https://github.com/yohman/23W-UP221/blob/main/Weeks/Week01%20Intro/extras/gcp-2-describing-code.ipynb)
+   * [Yoh resource: Commit and push](https://github.com/yohman/23W-UP221/blob/main/Git%20related/Commit%20and%20push.md)
 * Week 1   
    * [Navigating JupyterLab - from week 1 class](https://github.com/yohman/23W-UP221/blob/main/Weeks/Week01%20Intro/W102-NavigatingTheNotebook.ipynb)
    * [Reference sheet: GIS and coding troubleshooting](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
@@ -34,3 +35,12 @@ shift+l | show line numbers in a code cell
     * [Creating plots in Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/04_plotting.html#min-tut-04-plotting)
     * [About Pandas .loc](https://www.w3resource.com/pandas/dataframe/dataframe-loc.php)
     * [About Folium](https://python-visualization.github.io/folium/quickstart.html)
+* Week 3
+    * https://www.socialexplorer.com Census and other data
+       * [How to download data from Social Explorer](https://github.com/yohman/up206a/blob/master/guides/social_explorer.md)
+    * [Rename columns](https://stackoverflow.com/questions/11346283/renaming-column-names-in-pandas)
+    * [Histograms](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.hist.html)
+    * [Box Plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.boxplot.html)
+    * [Scatter Plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.scatter.html)
+    * CSV lat/long to GPD: new_gdf= gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.Longitude, df.Latitude))
+        * [online tutorial](https://stackoverflow.com/questions/61122875/geopandas-how-to-read-a-csv-and-convert-to-a-geopandas-dataframe-with-polygons)

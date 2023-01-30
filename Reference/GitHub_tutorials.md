@@ -8,6 +8,7 @@
 * Really basic shit
    * [Yoh resource: Selecting good variable names](https://github.com/yohman/23W-UP221/blob/main/Weeks/Week01%20Intro/extras/gcp-1-variable-naming.ipynb)
    * [Yoh resource: Describing your code](https://github.com/yohman/23W-UP221/blob/main/Weeks/Week01%20Intro/extras/gcp-2-describing-code.ipynb)
+   * [Yoh resource: Commit and push](https://github.com/yohman/23W-UP221/blob/main/Git%20related/Commit%20and%20push.md)
 * Week 1   
    * [Navigating JupyterLab - from week 1 class](https://github.com/yohman/23W-UP221/blob/main/Weeks/Week01%20Intro/W102-NavigatingTheNotebook.ipynb)
    * [Reference sheet: GIS and coding troubleshooting](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
