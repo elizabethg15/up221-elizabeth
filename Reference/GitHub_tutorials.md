@@ -44,3 +44,11 @@ shift+l | show line numbers in a code cell
     * [Scatter Plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.scatter.html)
     * CSV lat/long to GPD: new_gdf= gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.Longitude, df.Latitude))
         * [online tutorial](https://stackoverflow.com/questions/61122875/geopandas-how-to-read-a-csv-and-convert-to-a-geopandas-dataframe-with-polygons)
+* Week 4
+    * [matplotlib markers](https://matplotlib.org/stable/api/markers_api.html)
+    * [Exporting from matplotlib to open in Adobe Illustrator](https://jonathansoma.com/lede/data-studio/matplotlib/exporting-from-matplotlib-to-open-in-adobe-illustrator/)
+    * [LA Times neighborhood boundaries](https://geohub.lacity.org/datasets/lahub::la-times-neighborhood-boundaries/about)
+    * [Scatter plots on mapbox in Python](https://plotly.com/python/scattermapbox/)
+    * [Bar charts in Python](https://plotly.com/python/bar-charts/)
+    * [Sodapy API (I think)](https://github.com/xmunoz/sodapy)
+    * [Socrata API](https://dev.socrata.com/docs/endpoints.html)
