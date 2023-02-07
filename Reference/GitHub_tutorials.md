@@ -52,3 +52,15 @@ shift+l | show line numbers in a code cell
     * [Bar charts in Python](https://plotly.com/python/bar-charts/)
     * [Sodapy API (I think)](https://github.com/xmunoz/sodapy)
     * [Socrata API](https://dev.socrata.com/docs/endpoints.html)
+* Week 5
+    * Open Street Maps
+       * [OSMNX examples](https://github.com/gboeing/osmnx-examples)
+       * [OSMNX GitHub home](https://github.com/gboeing/osmnx)
+       * [About OSMNX](https://osmnx.readthedocs.io/en/stable/)
+    * [Plotly templates](https://plotly.com/python/bar-charts/)
+    * [Library of geopandas commands](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoSeries.total_bounds.html)
+    * [How to put legend outside the plot in GPD](https://stackoverflow.com/questions/4700614/how-to-put-the-legend-outside-the-plot/43439132#43439132)
+    * [Colormap reference Matplotlib](https://matplotlib.org/3.1.1/gallery/color/colormap_reference.html)
+    * [Mapbox Choropleth Maps in Plotly](https://plotly.com/python/mapbox-county-choropleth/)
+    * [Fetching green areas from OSM](https://towardsdatascience.com/fetching-green-areas-from-osm-data-a6ff835c40dc)
+    * [Tags in OSM](https://wiki.openstreetmap.org/wiki/Tags)
