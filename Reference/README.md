@@ -52,7 +52,7 @@ shift+l | show line numbers in a code cell
     * [Bar charts in Python](https://plotly.com/python/bar-charts/)
     * [Sodapy API (I think)](https://github.com/xmunoz/sodapy)
     * [Socrata API](https://dev.socrata.com/docs/endpoints.html)
-* Week 5
+* Week 5!
     * Open Street Maps
        * [OSMNX examples](https://github.com/gboeing/osmnx-examples)
        * [OSMNX GitHub home](https://github.com/gboeing/osmnx)
