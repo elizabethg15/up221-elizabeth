@@ -64,3 +64,14 @@ shift+l | show line numbers in a code cell
     * [Mapbox Choropleth Maps in Plotly](https://plotly.com/python/mapbox-county-choropleth/)
     * [Fetching green areas from OSM](https://towardsdatascience.com/fetching-green-areas-from-osm-data-a6ff835c40dc)
     * [Tags in OSM](https://wiki.openstreetmap.org/wiki/Tags)
+* Week 6
+    * [Folium layer control tutorial](https://snyk.io/advisor/python/folium/functions/folium.LayerControl)
+* Week 8
+    * [Leaflet providers preview...Open Street Map](https://leaflet-extras.github.io/leaflet-providers/preview/)
+    * [Geopandas mapping and plotting tools](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
+    * [Creating a GeoDataFrame from a DataFrame with coordinates](https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html)
+    * [LAPD Arrest Data since 2020 on Socrata](https://dev.socrata.com/foundry/data.lacity.org/amvf-fr72)
+    * [LA Open Data Portal Arrest Data since 2020](https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72)
+    * [Census Reporter](https://censusreporter.org/data/table/?table=B01003&geo_ids=16000US0644000,150%7C16000US0644000&primary_geo_id=16000US0644000)
+    * [SPLOT library info](https://github.com/pysal/splot)
+    * [ESDA library info](https://pysal.org/esda/)
