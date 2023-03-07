@@ -66,6 +66,8 @@ shift+l | show line numbers in a code cell
     * [Tags in OSM](https://wiki.openstreetmap.org/wiki/Tags)
 * Week 6
     * [Folium layer control tutorial](https://snyk.io/advisor/python/folium/functions/folium.LayerControl)
+* Week 7
+    * [Zipping and Unzipping Iterables in Python](https://towardsdatascience.com/zip-function-in-python-da91c248385d)
 * Week 8
     * [Leaflet providers preview...Open Street Map](https://leaflet-extras.github.io/leaflet-providers/preview/)
     * [Geopandas mapping and plotting tools](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
