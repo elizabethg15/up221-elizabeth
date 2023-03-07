@@ -68,6 +68,8 @@ shift+l | show line numbers in a code cell
     * [Folium layer control tutorial](https://snyk.io/advisor/python/folium/functions/folium.LayerControl)
 * Week 7
     * [Zipping and Unzipping Iterables in Python](https://towardsdatascience.com/zip-function-in-python-da91c248385d)
+    * [Aggregation with dissolve](https://geopandas.org/en/stable/docs/user_guide/aggregation_with_dissolve.html)
+    * [
 * Week 8
     * [Leaflet providers preview...Open Street Map](https://leaflet-extras.github.io/leaflet-providers/preview/)
     * [Geopandas mapping and plotting tools](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
@@ -77,3 +79,5 @@ shift+l | show line numbers in a code cell
     * [Census Reporter](https://censusreporter.org/data/table/?table=B01003&geo_ids=16000US0644000,150%7C16000US0644000&primary_geo_id=16000US0644000)
     * [SPLOT library info](https://github.com/pysal/splot)
     * [ESDA library info](https://pysal.org/esda/)
+* Week 9
+    * [ESRI Story Maps](https://www.esri.com/arcgis-blog/products/story-maps/constituent-engagement/optimize-group-settings-to-share-stories-like-never-before/)
