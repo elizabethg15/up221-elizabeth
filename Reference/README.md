@@ -79,5 +79,10 @@ shift+l | show line numbers in a code cell
     * [Census Reporter](https://censusreporter.org/data/table/?table=B01003&geo_ids=16000US0644000,150%7C16000US0644000&primary_geo_id=16000US0644000)
     * [SPLOT library info](https://github.com/pysal/splot)
     * [ESDA library info](https://pysal.org/esda/)
+    * [Creating a GeoDataFrame from a DataFrame with coordinates](https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html)
+    * [Merging Data](https://geopandas.org/en/stable/docs/user_guide/mergingdata.html)
+    * [geopandas.GeoDataFrame.explore](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.explore.html)
+    * [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/)
+    * [Creating multiple subplots using plt.subplots](https://matplotlib.org/3.3.0/gallery/subplots_axes_and_figures/subplots_demo.html)
 * Week 9
     * [ESRI Story Maps](https://www.esri.com/arcgis-blog/products/story-maps/constituent-engagement/optimize-group-settings-to-share-stories-like-never-before/)
