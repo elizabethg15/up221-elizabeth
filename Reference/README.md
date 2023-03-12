@@ -69,7 +69,6 @@ shift+l | show line numbers in a code cell
 * Week 7
     * [Zipping and Unzipping Iterables in Python](https://towardsdatascience.com/zip-function-in-python-da91c248385d)
     * [Aggregation with dissolve](https://geopandas.org/en/stable/docs/user_guide/aggregation_with_dissolve.html)
-    * [
 * Week 8
     * [Leaflet providers preview...Open Street Map](https://leaflet-extras.github.io/leaflet-providers/preview/)
     * [Geopandas mapping and plotting tools](https://geopandas.org/en/stable/docs/user_guide/mapping.html)
@@ -85,4 +84,6 @@ shift+l | show line numbers in a code cell
     * [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/)
     * [Creating multiple subplots using plt.subplots](https://matplotlib.org/3.3.0/gallery/subplots_axes_and_figures/subplots_demo.html)
 * Week 9
+    * [Yoh's tutorial: from Jupyter to Story Maps](https://storymaps.arcgis.com/stories/df1a75fac03b4815a2dccc1ebe622441)
+    * [Quick Start for GitHub Pages](https://docs.github.com/en/pages/quickstart)
     * [ESRI Story Maps](https://www.esri.com/arcgis-blog/products/story-maps/constituent-engagement/optimize-group-settings-to-share-stories-like-never-before/)
